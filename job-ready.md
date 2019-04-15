@@ -23,7 +23,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 - [x] Book: [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)   
 - [x] Book: [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)   
 - [x] Course - [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  on edX
-- [ ] Book - [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)
+- [x] Book - [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)
 - [ ] Course - [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) on edX or [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University (or both, your choice)
 - [ ] The FCC Backend Certification - all projects, ignore the tutorials and just read the official docs if you want.
 - [ ] Book - [DOM Enlightenment](http://domenlightenment.com/)
