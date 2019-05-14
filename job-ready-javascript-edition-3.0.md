@@ -50,27 +50,27 @@ Precalculus
 
 ## Tier 2 - Intro to Programming 
 **Goal:** Become Proficient with HTML, CSS and JavaScript.
-- [ ]  Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/) 
+- [x]  Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/) 
 - [ ]  Course: [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)  
 - [ ]  Book: [Eloquent JavaScript](https://eloquentjavascript.net/)
 - [ ]  Project: Create a web page using [this theme](https://blackrockdigital.github.io/startbootstrap-landing-page/) as your inspiration, include all features (hover effects, animations, etc)
-- [ ]  Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
+- [x]  Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
 - [ ]  Project: Create a web page using [this theme](https://blackrockdigital.github.io/startbootstrap-agency/) as your inspiration, include all features (hover effects, animations, etc)  
 - [ ]  Project: [CodinGame](https://www.codingame.com/training)  finish all problems in the 'Classic Puzzle - Easy' section.   
-- [ ]  Course - [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  on edX
+- [x]  Course - [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  on edX
 - [ ]  Project: Create a web page using [this theme](https://blackrockdigital.github.io/startbootstrap-resume/) as your inspiration, include all features (hover effects, animations, etc)
-- [ ]  Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) 
+- [x]  Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) 
 - [ ]  Project: Create a web page using [this theme](https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/) as your inspiration, include all features (hover effects, animations, etc)
-- [ ]  Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
+- [x]  Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
 - [ ]  Project: [CSS Zen Garden](http://www.csszengarden.com/) - implement your own CSS design for the competition
-- [ ]  Course: [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) 
+- [x]  Course: [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) 
 - [ ]  Project: Create a web page using [this theme](https://webthemez.com/preview/?ballet-one-page-free-website-template/) as your inspiration, include all features (hover effects, animations, etc)
-- [ ]  Book: [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)   
+- [x]  Book: [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)   
 - [ ]  Project: [100 Days of CSS](https://codepen.io/collection/AVPPQq/) in CodePen. Start one now and set a goal of finishing as many as you can by the end of Tier 3. Do them in any order you like. (Intent: Build a presence on CodePen as a proficient HTML/(S)CSS developer to add another online body of work alongside your growing GitHub profile.)
-- [ ]  Book: [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) 
+- [x]  Book: [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) 
 - [ ]  Course: [Getting Sassy with CSS](http://www.sassshop.com/#/)
 - [ ]  Project: [100 Days of CSS](https://codepen.io/collection/AVPPQq/) in CodePen. Complete at least 5 more at this point.
-- [ ]  Book: [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)  
+- [x]  Book: [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)  
 - [ ]  Project: Create a web page using [this theme](https://webthemez.com/demo/delta-corporate-material-design-bootstrap-html-template/index.html) as your inspiration, include all features (hover effects, animations, etc). Note that this theme has multiple pages for you to implement.
 - [ ]  Project: [100 Days of CSS](https://codepen.io/collection/AVPPQq/) in CodePen. Complete at least 10 more at this point.
 - [ ]  Project: Complete [the Odin Project JavaScript course](https://www.theodinproject.com/courses/javascript) including all projects (Feel free to skip the Ruby on Rails section.)
@@ -87,7 +87,7 @@ Precalculus
 - [ ]  Project: [100 Days of CSS](https://codepen.io/collection/AVPPQq/) in CodePen. Complete at least 5 more at this point.
 - [ ]  Course: [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
 - [ ]  Project: Clone [this](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) online resume template 
-- [ ]  Book: [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)
+- [x]  Book: [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)
 - [ ]  Project: [CodinGame](https://www.codingame.com/training)  finish all problems in the 'Classic Puzzle - Medium' section. 
 - [ ]  Project: [100 Days of CSS](https://codepen.io/collection/AVPPQq/) in CodePen. Complete at least 5 more at this point.
 - [ ]  Tackle documentation: Pick [Angular](https://angular.io/), [React](https://reactjs.org/), or [Vue](https://vuejs.org/) and dive into its official documentation, study it all, practice it, learn it thoroughly - then clone [this Admin template](http://rubix410.sketchpixy.com/ltr/dashboard) using whichever library/framework you chose. Note that there are 'many' pages and features to this template, you should clone them all. Continue practicing by using your library/framework of choice on the majority of the projects from this point forward in the guide.
