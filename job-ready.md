@@ -1,5 +1,7 @@
 # Get Job ready with 13 projects, 2 courses, and 10 books
 
+## Deprecated - Updated 3.0 version available [here](./job-ready-javascript-edition-3.0.md)
+
 Are you working through the FreeCodeCamp curriculum and  want to be job ready (for a junior role) without finishing all three certifications? 
 Want to short-circuit the process and get this done quick without getting laughed out of interviews?
 
@@ -16,15 +18,15 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 
 ## Read these books, complete these two courses, this certification, and these three projects
 
-- [x] Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)    
-- [x] Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)  
-- [x] Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)     
-- [x] Book: [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)   
-- [x] Book: [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)   
-- [x] Book: [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)   
-- [x] Course - [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  on edX
-- [x] Book - [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)
-- [ ] Course - [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) on edX or [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University (or both, your choice)
+- [ ] Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)    
+- [ ] Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)  
+- [ ] Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)     
+- [ ] Book: [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)   
+- [ ] Book: [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)   
+- [ ] Book: [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)   
+- [ ] Course - [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  on edX
+- [ ] Book - [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)
+* [ ] Course: [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) on edX or Course: [CS50's Mobile App Development with React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native) on edX (or both, your choice)
 - [ ] The FCC Backend Certification - all projects, ignore the tutorials and just read the official docs if you want.
 - [ ] Book - [DOM Enlightenment](http://domenlightenment.com/)
 - [ ] Project - Portfolio from the frontend section of FCC

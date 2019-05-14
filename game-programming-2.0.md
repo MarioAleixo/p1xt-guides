@@ -1,14 +1,27 @@
 
 # Video Game Programming - comprehensive foundations 
 
-## Deprecated - Updated 2.0 version available [here](./game-programming-2.0.md)
-
 I list a lot of games to clone in this list. I do not mean make the exact same game down to the assets and name and everything. I mean make a game that uses the same mechanics. **Don't get yourself sued for copyright violation.**
 There are references at the bottom of this list to answer some common questions relevant only to this guide (and thus not present in the [FAQ](./faq.md) which contains a plathora of information pertinent to not only this guide, but the others as well.)
 
 ## Tier 0 - Beginner "taste" of Game Programming - JavaScript based
 
+### Get some experience doing graphics with JavaScript using processing.js
+- [ ] Course: [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css) 
+- [ ] Project: Build all assignments in the Intro to HTML/CSS: Making webpages course
+- [ ] Course: [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)
+- [ ] Project: Build all assignments in the Drawing and Animation course
+- [ ] Course: [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)
+- [ ] Project: Build all assignments in the Games & Visualizations course
+- [ ] Project: Build a "pet project" game on Khan Academy using all the skills you've learned with processing.js. Make sure it has, at minimum, a "start game" screen, at least one level of a playable game that keeps score, and a "game over" screen.
+- [ ] Course: [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)
+- [ ] Project: Build all assignments in the Natural Simulations course
+- [ ] Project: Build a "pet project" game on Khan Academy using all the skills you've learned with processing.js. Make sure it has, at minimum, a "start game" screen, at least one level of a playable game that keeps score, and a "game over" screen.
+- [ ] Course: [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js) 
+- [ ] Project: Build all assignments in the HTML/JS: Making webpages interactive course
+
 ### Get familiar with JavaScript (Feel free to skip this and come back and "unskip it" if at any point you feel daunted by what comes later)
+- [ ] Book: [Eloquent JavaScript](https://eloquentjavascript.net/)
 - [ ] Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)    
 - [ ] Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)  
 - [ ] Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)     
@@ -16,17 +29,13 @@ There are references at the bottom of this list to answer some common questions 
 - [ ] Book: [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)   
 - [ ] Book: [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)     
 
-### Get some experience doing graphics with JavaScript using processing.js
-- [ ] Course: [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)
-- [ ] Project: Build all assignments in the Drawing and Animation course
-- [ ] Course: [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)
-- [ ] Project: Build all assignments in the Games & Visualizations course
-- [ ] Course: [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)
-- [ ] Project: Build all assignments in the Natural Simulations course
-- [ ] Project: Build a "pet project" game on Khan Academy using all the skills you've learned with processing.js. Make sure it has, at minimum, a "start game" screen, at least one level of a playable game that keeps score, and a "game over" screen.
+
 
 ### Learn a smidge of math and algorithms so you can compute things
-- [ ] Book: Precalculus (feel free to skip if you're already doing 30 minutes a day of math on Khan Academy)
+- [ ] Course: [Algebra I](https://www.khanacademy.org/math/algebra)
+- [ ] Course: [Algebra II](https://www.khanacademy.org/math/algebra2)
+- [ ] Course: [Trigonometry](https://www.khanacademy.org/math/trigonometry)
+- [ ] Course: [Precalculus](https://www.khanacademy.org/math/precalculus)
 - [ ] Course: [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 
 ### Get Familiar with Phaser and setup your bookmarks to Phaser Docs and helpful links for getting/creating assets
@@ -40,7 +49,7 @@ There are references at the bottom of this list to answer some common questions 
 - [ ] Article: [Pixel Art Tutorial](http://makegames.tumblr.com/post/42648699708/pixel-art-tutorial)
 - [ ] Article: [The Total Beginner’s Guide to Better 2D Game Art](http://www.gamedev.net/page/resources/_/creative/visual-arts/the-total-beginner%E2%80%99s-guide-to-better-2d-game-art-r2959)
 
-### Build these - in order - the complexity builds with each one
+### Build these using Phaser- in order - the complexity builds with each one
 - [ ] Game: Concentration (Reference [Wikipedia](https://en.wikipedia.org/wiki/Concentration_(game)))
 - [ ] Game: Tic-Tac-Toe (unbeatable AI opponent) [Wikipedia](http://en.wikipedia.org/wiki/Tic-tac-toe)
 - [ ] Game: Minesweeper [Wikipedia](http://en.wikipedia.org/wiki/Minesweeper_(computer_game))
@@ -56,22 +65,26 @@ There are references at the bottom of this list to answer some common questions 
 - [ ] Course: [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
 - [ ] Course: [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x) 
 - [ ] Game: Hangman
+- [ ] Course: [CS50's Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development)
+- [ ] Game: Your choice
+- [ ] Game: Your choice
+- [ ] Course: [Video Game Design History](https://www.edx.org/course/video-game-design-history-ritx-game101x#!)
+- [ ] Game: Your choice
 - [ ] Book: [Precalculus](http://www.stitz-zeager.com/szprecalculus07042013.pdf)
 - [ ] Book: [Fundamentals of C++ Programming](http://python.cs.southern.edu/cppbook/progcpp.pdf) and [labs](http://www.cs.southern.edu/halterman/Courses/Winter2014/124/Labs/index.html)
 - [ ] Game: Adventure (see [text adventure games](http://www.web-adventures.org/))
 - [ ] Exercises: [Code Monk](https://www.hackerearth.com/practice/), then [CodinGame](https://www.codingame.com/start) - begin working through these lessons, make them a daily habit as you continue on
 - [ ] Article: Read [Algorithms and Flowcharts](http://www.academia.edu/7857144/ALGORITHMS_AND_FLOWCHARTS) and then familiarize yourself with [Pencil](http://pencil.evolus.vn/) ... start flowcharting complex portions of your code logic as part of your documentation       
-- [ ] Course: [Video Game Design History](https://www.edx.org/course/video-game-design-history-ritx-game101x#!)
 - [ ] Book: [An Introduction to Design Patterns in C++ with Qt 4](http://ptgmedia.pearsoncmg.com/images/9780131879058/downloads/0131879057_Ezust_book.pdf)
 - [ ] Game: Zork (see [text adventure games](http://www.web-adventures.org/))
 - [ ] Article: [Building a Game on Your Own](http://www.flipcode.com/archives/Building_A_Game_On_Your_Own.shtml)
 - [ ] Article: [How do I Make Games](http://web.archive.org/web/20051104034215/http://www.lupinegames.com/articles/path_to_dev.html)
+- [ ] Game: Your choice
 - [ ] Article: [So You Want to Be a Game Programmer?](http://gamesfromwithin.com/so-you-want-to-be-a-game-programmer)
 - [ ] Article: [Finishing a Game](http://makegames.tumblr.com/post/1136623767/finishing-a-game)
 - [ ] Article: [Pixel Art Tutorial](http://makegames.tumblr.com/post/42648699708/pixel-art-tutorial)
+- [ ] Game: Your choice
 - [ ] Article: [The Total Beginner’s Guide to Better 2D Game Art](http://www.gamedev.net/page/resources/_/creative/visual-arts/the-total-beginner%E2%80%99s-guide-to-better-2d-game-art-r2959)
-- [ ] Article: [2D Tutorial Series Introduction](http://www.aaroncox.net/tutorials/arcade/Introduction.html)
-- [ ] Game: Pong (Reference Tutorial [Paddle Battle](http://www.aaroncox.net/tutorials/arcade/PaddleBattle.html))
 - [ ] Course: [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)  
 - [ ] Game: Duck Hunt
 - [ ] Course: [The Rise of Superheroes and Their Impact On Pop Culture](https://www.edx.org/course/rise-superheroes-impact-pop-culture-smithsonianx-popx1-5x#!)
@@ -90,12 +103,12 @@ There are references at the bottom of this list to answer some common questions 
 - [ ] Game: Space Invaders
 - [ ] Course: [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)    
 - [ ] Course: [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
-- [ ] Game: Tetris (Reference tutorial [Falling Blocks (Tetris)](http://www.aaroncox.net/tutorials/arcade/FallingBlocks.html))
+- [ ] Game: Tetris 
 - [ ] Course: [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821) 
 - [ ] Article List: [Amit’s Game Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html)
 - [ ] Article: [General Concepts for Beginning Developers](http://www.hobbygamedev.com/beg/general-concepts-for-beginning-game-developers/)
 - [ ] Article: [OpenGL Math Primer](http://lazyfoo.net/articles/article10/index.php)
-- [ ] Game: Breakout (Reference tutorial [Block Breaker (Breakout)](http://www.aaroncox.net/tutorials/arcade/BlockBreaker.html))
+- [ ] Game: Breakout 
 - [ ] Course: [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/) 
 - [ ] Course: [Intro to Physics](https://www.udacity.com/course/intro-to-physics--ph100)
 - [ ] Game: Asteroids
